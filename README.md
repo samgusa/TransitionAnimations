@@ -18,3 +18,9 @@ credit: [Kavsoft](https://www.youtube.com/watch?v=8sgjvgBasYM)
 <img src="HeroAnimationTest/Hero Animation.gif" alt="" width="100" height="200">
 
 credit: [Kavsoft](https://www.youtube.com/watch?v=AjiLR9ORhzM)
+
+## [OtherTransitionTest](https://github.com/samgusa/TransitionAnimations/tree/main/OtherTransitionTest)
+
+<img src="OtherTransitionTest/OtherTransitionTest.gif" alt="" width="100" height="200">
+
+credit: [Kavsoft](https://www.youtube.com/watch?v=7i1jIVV_-hY)
